@@ -60,3 +60,14 @@ input.search-bar {
 h1.temp {
     margin: 0;
 }
+
+.description
+{
+    text-transform: capitalize;
+    margin: auto 0;
+}
+
+.flex {
+    display: flex;
+    justify-content: left;
+}
